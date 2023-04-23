@@ -1,0 +1,23 @@
+{
+  "name": "helloworldpython",
+  "version": "1.0.0",
+  "description": "node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart":"nodemon hello-world.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mackiechimuka/helloWorldPython.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mackiechimuka/helloWorldPython/issues"
+  },
+  "homepage": "https://github.com/mackiechimuka/helloWorldPython#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
